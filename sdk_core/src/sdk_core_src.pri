@@ -9,6 +9,3 @@ include( $$PWD/base/src_base.pri )
 include( $$PWD/comm/src_comm.pri )
 
 include( $$PWD/third_party/FastCRC/FastCRC.pri )
-
-LIBS *= -lboost_system
-#LIBS *= -lboost_filesystem
